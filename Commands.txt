@@ -1,0 +1,32 @@
+# Debian/Ubuntu
+sudo apt update               # refresh package list
+sudo apt upgrade              # upgrade installed packages
+
+mv oldname.txt newname.txt     # rename a file
+mv file.txt /path/to/dir/      # move file into a directory
+
+cp file1.txt file2.txt        # copy file1 to file2
+cp file.txt /path/to/dir/     # copy into a directory
+
+sudo systemctl start apache2        # start a service
+sudo systemctl stop apache2         # stop a service
+sudo systemctl restart apache2      # restart (stop then start)
+sudo systemctl reload apache2       # reload config without restart
+sudo systemctl reload-or-restart apache2  # reload if supported, else restart
+
+
+nano file.txt                  # open/create file
+
+Ctrl + O    # save (Write Out)
+Ctrl + X    # exit
+
+
+vim file.txt                   # open/create file
+
+i           # insert before cursor
+a           # insert after cursor
+o           # open new line below, insert mode
+Esc         # exit insert mode back to normal
+
+
+cat file.txt                   # print file content
