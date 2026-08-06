@@ -1,0 +1,5 @@
+sudo systemctl start apache2        # start a service
+sudo systemctl stop apache2         # stop a service
+sudo systemctl restart apache2      # restart (stop then start)
+sudo systemctl reload apache2       # reload config without restart
+sudo systemctl reload-or-restart apache2  # reload if supported, else restart

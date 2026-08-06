@@ -1,0 +1,12 @@
+nano file.txt                  # open/create file
+
+Ctrl + O    # save (Write Out)
+Ctrl + X    # exit
+
+
+vim file.txt                   # open/create file
+
+i           # insert before cursor
+a           # insert after cursor
+o           # open new line below, insert mode
+Esc         # exit insert mode back to normal

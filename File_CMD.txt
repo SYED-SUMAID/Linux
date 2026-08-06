@@ -1,0 +1,6 @@
+mv oldname.txt newname.txt     # rename a file
+mv file.txt /path/to/dir/      # move file into a directory
+
+cp file1.txt file2.txt        # copy file1 to file2
+cp file.txt /path/to/dir/     # copy into a directory
+cat file.txt                   # print file content
