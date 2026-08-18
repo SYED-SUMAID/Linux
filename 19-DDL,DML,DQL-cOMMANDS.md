@@ -1,6 +1,6 @@
-=======================
+
 DDL, DML & DQL Commands
-=======================
+
 DDL
 
 DDL (Data Definition Language) is used to define, create, and modify the structure of database objects.
