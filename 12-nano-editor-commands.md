@@ -1,8 +1,8 @@
 
-## Linux nano Editor Commands
+# Linux nano Editor Commands
 
 
-#Debian/Ubuntu
+## Debian/Ubuntu
 ```bash
 -> Opening Files
   ===============

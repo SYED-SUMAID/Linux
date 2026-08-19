@@ -1,8 +1,8 @@
 
-## Linux User Management Commands
+# Linux User Management Commands
 
 
-#Debian/Ubuntu
+## Debian/Ubuntu
 ```bash
 -> Adding Users
   ============== 

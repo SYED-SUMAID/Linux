@@ -1,5 +1,5 @@
 
-## Kill Commands & Signals
+# Kill Commands & Signals
 ```bash
 1. "kill"
 

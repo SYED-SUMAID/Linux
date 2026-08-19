@@ -1,8 +1,8 @@
 
-## Vi Editor Commands
+# Vi Editor Commands
 
 
-# Debian/Ubuntu
+## Debian/Ubuntu
 ```bash
 -> Opening a File
   ================

@@ -1,7 +1,7 @@
 
-## Linux File Management Commands
+# Linux File Management Commands
 
-#Debian/Ubuntu
+## Debian/Ubuntu
 ```bash
 -> Creating File & Directories
   =============================

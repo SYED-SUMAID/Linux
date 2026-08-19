@@ -1,8 +1,8 @@
 
-## Systemctl Commands
+# Systemctl Commands
 
 
-# Debian/Ubuntu
+## Debian/Ubuntu
 
 -> Service Control
 ```bash
