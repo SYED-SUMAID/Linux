@@ -1,6 +1,6 @@
-===========================
-Linux nano Editor Commands
-===========================
+
+## Linux nano Editor Commands
+
 
 #Debian/Ubuntu
 

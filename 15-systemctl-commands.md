@@ -1,6 +1,6 @@
-==================
-Systemctl Commands
-==================
+
+## Systemctl Commands
+
 
 # Debian/Ubuntu
 
