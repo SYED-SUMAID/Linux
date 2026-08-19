@@ -6,6 +6,7 @@ Environment Variables Commands
 
 -> Environment Variable operations
   =================================
+  ```bash
   printenv                         # Displays all environment variables
   env                              # Displays the current environment variables.
   echo $HOME                       # Displays the user's home directory
