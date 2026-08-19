@@ -2,7 +2,7 @@
 ## Linux File Management Commands
 
 #Debian/Ubuntu
-
+```bash
 -> Creating File & Directories
   =============================
   touch file.txt                 # create empty file / update timestamp

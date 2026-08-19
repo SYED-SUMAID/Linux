@@ -1,6 +1,6 @@
 
 ## Kill Commands & Signals
-
+```bash
 1. "kill"
 
 Used to send a signal to a process using its PID

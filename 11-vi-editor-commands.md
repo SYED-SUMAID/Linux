@@ -3,7 +3,7 @@
 
 
 # Debian/Ubuntu
-
+```bash
 -> Opening a File
   ================
   vi filename    # Opens or creates a file in the vi editor

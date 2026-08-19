@@ -5,6 +5,7 @@
 # Debian/Ubuntu
 
 -> Service Control
+```bash
   =================
    sudo systemctl start apache2        # start Apache
    sudo systemctl stop apache2         # stop Apache

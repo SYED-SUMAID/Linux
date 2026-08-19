@@ -3,7 +3,7 @@
 
 
 #Debian/Ubuntu
-
+```bash
 -> Opening Files
   ===============
   nano file.txt                  # open or create a file

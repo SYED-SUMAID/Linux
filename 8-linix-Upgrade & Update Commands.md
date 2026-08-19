@@ -3,7 +3,7 @@
 
 
 # Debian/Ubuntu
-
+```bash
 -> Update commands
   =================
   sudo apt update               # refresh package list

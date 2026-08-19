@@ -3,7 +3,7 @@
 
 
 #Debian/Ubuntu
-
+```bash
 -> Adding Users
   ============== 
   sudo useradd username              # create a new user
