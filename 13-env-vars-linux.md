@@ -1,6 +1,5 @@
-===============================
-##Environment Variables Commands
-===============================
+
+## Environment Variables Commands
 
 
 # Debian/Ubuntu
