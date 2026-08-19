@@ -1,6 +1,6 @@
-==================================
-Linux Update and Upgrade Commands
-==================================
+
+## Linux Update and Upgrade Commands
+
 
 # Debian/Ubuntu
 
